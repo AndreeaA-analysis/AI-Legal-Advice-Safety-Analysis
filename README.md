@@ -12,7 +12,7 @@ Hypothesis: A well-constructed, multi-step, emotionally compelling narrative can
 
 ## 2. Methodology
 
-To test the hypothesis, I used an 8-step, escalating prompt sequence. I progressed from initial, simpler attempts to more complex, narrative-building prompts. The initial attempts (prompts 1-7) did not lead to direct rule violations, but at step 8 I found an unexpected but significant result – a violation of the legal advice protocol. The goal was to find the point where the protection of the model breaks down. The further analysis therefore focused on this specific phenomenon discovered during the research.
+To test the hypothesis, I used an 8-step, escalating prompt sequence. I progressed from initial, simpler attempts to more complex, narrative-building prompts. The initial attempts (prompts 1-7) did not lead to direct rule violations, but at step 8 I found an unexpected but significant result - a violation of the legal advice protocol. The goal was to find the point where the protection of the model breaks down. The further analysis therefore focused on this specific phenomenon discovered during the research.
 
 ---
 
